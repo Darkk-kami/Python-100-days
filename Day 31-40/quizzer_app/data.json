@@ -1,0 +1,105 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Muse is a British (English) rock band",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Nickelodeon rejected the pilot to Adventure Time.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Daft Punk originated in France.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Pok&eacute;mon, Ash&#039;s Pikachu refuses to go into a pokeball.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "An eggplant is a vegetable.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}
